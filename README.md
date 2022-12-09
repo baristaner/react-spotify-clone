@@ -5,8 +5,13 @@
 
 
 
-> Edit ./server/.env and AUTH_URL in src/Login.js
+> Create a .env file in ./server/ and edit AUTH_URL in src/Login.js
 
+```
+REDIRECT_URI=http://localhost:3000
+CLIENT_ID=Your Client ID Here
+CLIENT_SECRET=Your Client Secret Here
+```
 
 
 <img src="https://raw.githubusercontent.com/baristaner/react-spotify-clone/main/imgs/login.jpg" width="1270px"/>
