@@ -4,25 +4,18 @@
 </h1>
 
 
-* Install the packages of client & server
-```
-npm install
-```
 
-* Edit ./server/.env
+> Edit ./server/.env and AUTH_URL in src/Login.js
 
 
-* Start the server
-```
-cd server
-```
 
-```
-nodemon
-```
+<img src="https://raw.githubusercontent.com/baristaner/react-spotify-clone/main/imgs/login.jpg" width="1270px"/>
+<img src="https://raw.githubusercontent.com/baristaner/react-spotify-clone/main/imgs/songs.jpg" width="1270px"/>
+<img src="https://raw.githubusercontent.com/baristaner/react-spotify-clone/main/imgs/lyrics.jpg" width="1270px"/>
 
-* Start the client
-```
-npm start
-```
+
+
+
+
+
 
